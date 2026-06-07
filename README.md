@@ -125,10 +125,8 @@ Node.js · APIs · SDKs · Automation · Agentic Workflows
 
 ---
 
-## Why follow
-
-Follow me if you are interested in:
-
+## Follow for more
+ 
 * AI-first product engineering
 * deeply AI-integrated systems
 * MCP and agent infrastructure
@@ -162,8 +160,4 @@ That means:
 * repeatable development processes instead of chaotic agent sessions;
 * automation that can be inspected, tested, and improved.
 
-The best entry point is:
-
-https://github.com/salacoste/mcp-n8n-workflow-builder
-
-Star it, try it, fork it, or follow the profile to track the next releases.
+ 
