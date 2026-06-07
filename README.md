@@ -13,4 +13,6 @@
     Star my main MCP project
   </a>
   ·
-  <a href="https://github.com/s
+  <a href="https://github.com/salacoste?tab=repositories">
+    Explore repositories
+  </a>
