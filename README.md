@@ -5,14 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/salacoste?tab=followers">
-    <strong>Follow me on GitHub</strong>
-  </a>
+  <a href="https://github.com/salacoste?tab=followers"><strong>Follow me on GitHub</strong></a>
   ·
-  <a href="https://github.com/salacoste/mcp-n8n-workflow-builder">
-    Star my main MCP project
-  </a>
-  ·
-  <a href="https://github.com/salacoste?tab=repositories">
-    Explore repositories
-  </a>
+  <a href="https://github.com/salacoste/mcp-n8n-workflow-builder">Star my main MCP project</
