@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/ai-first-product-engineering.png" alt="AI-first product engineering" width="100%" />
+</p>
+
 # AI-first product engineering
 
 Building deeply AI-integrated systems with agents, MCP servers, n8n automation, SDKs, and AI-native developer workflows.
