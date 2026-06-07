@@ -2,5 +2,8 @@
 
 Building deeply AI-integrated systems with agents, MCP servers, n8n automation, SDKs, and AI-native developer workflows.
 
-[![GitHub followers](https://img.shields.io/github/followers/salacoste?style=social)](https://github.com/salacoste?tab=followers)
-[![Main project stars](https://img.shields.io/github/stars/salacoste/mcp-n8n-workflow-builder?style=social)](https://github.com/salacoste/mcp-n8n-workflow
+I build AI-first products where agents, workflows, APIs, automation, data, and developer tools are part of the core architecture.
+
+Start here: https://github.com/salacoste/mcp-n8n-workflow-builder
+
+Follow: https://github.com/salacoste
