@@ -1,10 +1,9 @@
-<h1 align="center">AI-first product engineering</h1>
+# AI-first product engineering
 
-<p align="center">
-  Building deeply AI-integrated systems with agents, MCP servers, n8n automation, SDKs, and AI-native developer workflows.
-</p>
+Building deeply AI-integrated systems with agents, MCP servers, n8n automation, SDKs, and AI-native developer workflows.
 
-<p align="center">
-  <a href="https://github.com/salacoste?tab=followers"><strong>Follow me on GitHub</strong></a>
-  ·
-  <a href="https://github.com/salacoste/mcp-n8n-workflow-builder">Star my main MCP project</
+I build AI-first products where agents, workflows, APIs, automation, data, and developer tools are part of the core architecture.
+
+Focus: AI agents, MCP, n8n, TypeScript SDKs, marketplace APIs, internal tools, and agentic developer workflows.
+
+Main project: https://github.com/salacoste/mcp-n8n-work
