@@ -49,28 +49,6 @@ I build practical systems that connect AI with real workflows: APIs, CRMs, marke
 
 ---
 
-## Start here
-
-### n8n Workflow Builder MCP Server
-
-**Create, manage, and monitor n8n workflows using Claude AI and Cursor IDE.**
-
-Repository:
-
-https://github.com/salacoste/mcp-n8n-workflow-builder
-
-This project lets you build n8n workflows through natural language instead of manually editing JSON or constantly switching between your IDE and the n8n UI.
-
-Use it if you want to:
-
-* create n8n workflows conversationally;
-* manage multiple n8n instances;
-* execute and monitor workflows;
-* use MCP tools from Claude Desktop or Cursor;
-* automate real business operations with AI.
-
----
-
 ## Featured projects
 
 | Project                                                                                               | What it does                                               |
@@ -100,18 +78,6 @@ That means:
 * AI is used to operate, extend, and improve the system itself.
 
 This is the direction I am building in.
-
----
-
-## GitHub signal
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salacoste&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salacoste&layout=compact&hide_border=true" alt="Top languages" />
-</p>
 
 ---
 
