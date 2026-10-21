@@ -25,5 +25,5 @@ I build AI-first products: systems where agents, workflows and APIs are part of 
 Mostly TypeScript and Python, with Rust and Go where they pay off.
 
 <!-- STATS:START -->
-<sub>349 stars and 85 forks across 28 original repositories. Cards and numbers refresh daily.</sub>
+<sub>349 stars and 85 forks across 29 original repositories. Cards and numbers refresh daily.</sub>
 <!-- STATS:END -->

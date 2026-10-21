@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T01:30:00Z",
+  "fetched_at": "2026-10-21T22:53:11Z",
   "user": {
     "followers": 45,
     "public_repos": 138
@@ -7,14 +7,38 @@
   "totals": {
     "stars": 349,
     "forks": 85,
-    "originals": 28
+    "originals": 29
   },
   "repos": {
-    "mcp-n8n-workflow-builder": { "stars": 235, "forks": 56, "language": "JavaScript" },
-    "antigravity-bmad-config": { "stars": 66, "forks": 19, "language": "Python" },
-    "openapi-mcp-swagger": { "stars": 18, "forks": 2, "language": "Python" },
-    "ozon-daytona-seller-api": { "stars": 15, "forks": 5, "language": "HTML" },
-    "daytona-wildberries-typescript-sdk": { "stars": 7, "forks": 2, "language": "TypeScript" },
-    "oh-my-bmad": { "stars": 2, "forks": 0, "language": "Python" }
+    "antigravity-bmad-config": {
+      "stars": 66,
+      "forks": 19,
+      "language": "Python"
+    },
+    "daytona-wildberries-typescript-sdk": {
+      "stars": 7,
+      "forks": 2,
+      "language": "TypeScript"
+    },
+    "mcp-n8n-workflow-builder": {
+      "stars": 235,
+      "forks": 56,
+      "language": "JavaScript"
+    },
+    "oh-my-bmad": {
+      "stars": 2,
+      "forks": 0,
+      "language": "Python"
+    },
+    "openapi-mcp-swagger": {
+      "stars": 18,
+      "forks": 2,
+      "language": "Python"
+    },
+    "ozon-daytona-seller-api": {
+      "stars": 15,
+      "forks": 5,
+      "language": "HTML"
+    }
   }
 }
