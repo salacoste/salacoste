@@ -1,129 +1,29 @@
-<p align="center">
-  <img src="./assets/hf_20260607_020520_dee95a32-01ab-44fa-bb43-ad7fd28c0be1.png" alt="AI-first product engineering" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <img alt="AI agents, wired into real systems. Claude Code, Cursor, Codex and Antigravity connect through MCP, workflows and SDKs to n8n, the Ozon and Wildberries APIs, OpenAPI services, CRMs and databases." src="./assets/hero-light.svg" width="100%">
+</picture>
+
+I build AI-first products: systems where agents, workflows and APIs are part of the architecture from the first commit, not a chatbot added later. Most of my open-source work is the harness that lets agents operate real systems safely.
+
+### Selected work
+
+<!-- CARDS:START -->
+<p>
+<a href="https://github.com/salacoste/mcp-n8n-workflow-builder"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/mcp-n8n-workflow-builder-dark.svg"><img alt="mcp-n8n-workflow-builder: Build, run and monitor n8n workflows from Claude or Cursor through MCP. 235 stars." src="./assets/cards/mcp-n8n-workflow-builder-light.svg" width="49%"></picture></a> <a href="https://github.com/salacoste/antigravity-bmad-config"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/antigravity-bmad-config-dark.svg"><img alt="antigravity-bmad-config: BMad Method agents as slash commands, from PRD and architecture to QA gate. 66 stars." src="./assets/cards/antigravity-bmad-config-light.svg" width="49%"></picture></a>
+<a href="https://github.com/salacoste/ozon-daytona-seller-api"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/ozon-daytona-seller-api-dark.svg"><img alt="ozon-daytona-seller-api: Typed TypeScript SDK for the Ozon Seller API: 278 methods in 33 groups. 15 stars." src="./assets/cards/ozon-daytona-seller-api-light.svg" width="49%"></picture></a> <a href="https://github.com/salacoste/daytona-wildberries-typescript-sdk"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/daytona-wildberries-typescript-sdk-dark.svg"><img alt="daytona-wildberries-typescript-sdk: Type-safe TypeScript client for the Wildberries marketplace API. 7 stars." src="./assets/cards/daytona-wildberries-typescript-sdk-light.svg" width="49%"></picture></a>
+<a href="https://github.com/salacoste/openapi-mcp-swagger"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/openapi-mcp-swagger-dark.svg"><img alt="openapi-mcp-swagger: Turns any Swagger or OpenAPI spec into a searchable MCP server. 18 stars." src="./assets/cards/openapi-mcp-swagger-light.svg" width="49%"></picture></a> <a href="https://github.com/salacoste/oh-my-bmad"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cards/oh-my-bmad-dark.svg"><img alt="oh-my-bmad: Self-hosted platform that drives Claude Code from Telegram and the console. 2 stars." src="./assets/cards/oh-my-bmad-light.svg" width="49%"></picture></a>
 </p>
- 
-<h1 align="center">AI-first product engineering</h1>
+<!-- CARDS:END -->
 
-<p align="center">
-  Building deeply AI-integrated systems with agents, MCP servers, n8n automation, SDKs, and AI-native developer workflows.
-</p>
+### How I build
 
-<p align="center">
-  <a href="https://github.com/salacoste?tab=followers">
-    <img src="https://img.shields.io/github/followers/salacoste?style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/salacoste/mcp-n8n-workflow-builder">
-    <img src="https://img.shields.io/github/stars/salacoste/mcp-n8n-workflow-builder?style=social" alt="mcp-n8n-workflow-builder stars" />
-  </a>
-</p>
+- APIs instead of screenshots
+- Workflows instead of one-off prompts
+- Typed SDKs instead of fragile scripts
+- Repeatable processes instead of chaotic agent sessions
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI--first-product%20engineering-111111" alt="AI-first product engineering" />
-  <img src="https://img.shields.io/badge/MCP-servers-2563eb" alt="MCP servers" />
-  <img src="https://img.shields.io/badge/n8n-automation-f97316" alt="n8n automation" />
-  <img src="https://img.shields.io/badge/TypeScript-SDKs-3178c6" alt="TypeScript SDKs" />
-  <img src="https://img.shields.io/badge/Agentic-workflows-7c3aed" alt="Agentic workflows" />
-</p>
+Mostly TypeScript and Python, with Rust and Go where they pay off.
 
----
-
-## What I build
-
-I build AI-first products and deeply AI-integrated systems.
-
-For me, **AI-first** does not mean adding a chatbot to an existing product.
-
-It means designing products where AI agents, workflows, APIs, automation, data, and developer tools are part of the core architecture from the beginning.
-
-My focus areas:
-
-* AI-first product architecture
-* AI agents and agentic workflows
-* MCP servers for Claude, Cursor, and AI-native IDEs
-* n8n automation powered by natural language
-* TypeScript SDKs for marketplace and business APIs
-* Developer tools for AI-assisted engineering
-* Internal automation systems for real business operations
-
-I build practical systems that connect AI with real workflows: APIs, CRMs, marketplaces, documents, databases, backend services, automation pipelines, and operational processes.
-
----
-
-## Featured projects
-
-| Project                                                                                               | What it does                                               |
-| ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [mcp-n8n-workflow-builder](https://github.com/salacoste/mcp-n8n-workflow-builder)                     | Build and manage n8n workflows through AI and MCP          |
-| [antigravity-bmad-config](https://github.com/salacoste/antigravity-bmad-config)                       | Structured AI-agent development workflow template          |
-| [ozon-daytona-seller-api](https://github.com/salacoste/ozon-daytona-seller-api)                       | TypeScript SDK for OZON Seller API                         |
-| [daytona-wildberries-typescript-sdk](https://github.com/salacoste/daytona-wildberries-typescript-sdk) | TypeScript SDK for Wildberries Marketplace API             |
-| [codex-account-switch-backups](https://github.com/salacoste/codex-account-switch-backups)             | CLI tool for Codex account switching and encrypted backups |
-| [openapi-mcp-generator](https://github.com/salacoste/openapi-mcp-generator)                           | OpenAPI and MCP generation tooling                         |
-
----
-
-## My approach
-
-I believe the next generation of software will not be built as traditional apps with AI features attached later.
-
-It will be built as AI-native systems from the ground up.
-
-That means:
-
-* agents are part of the product logic;
-* workflows are designed for human + AI collaboration;
-* APIs are first-class interfaces for agents;
-* automation is observable and testable;
-* developer tools are integrated into the product lifecycle;
-* AI is used to operate, extend, and improve the system itself.
-
-This is the direction I am building in.
-
----
-
-## Main stack
-
-```text
-TypeScript · JavaScript · Python · Rust · Go
-MCP · n8n · Claude · Cursor · BMad Method
-Node.js · APIs · SDKs · Automation · Agentic Workflows
-```
-
----
-
-## Follow for more
- 
-* AI-first product engineering
-* deeply AI-integrated systems
-* MCP and agent infrastructure
-* n8n automation
-* AI-native developer workflows
-* marketplace and business API automation
-* internal tools powered by agents
-* practical systems for real-world operations
-
-My projects are focused on production-useful automation, not just demos.
-
-I publish tools, experiments, and implementation patterns that are meant to be used in real projects.
-
-<p align="center">
-  <a href="https://github.com/salacoste?tab=followers">
-    <strong>Follow @salacoste for AI-first product engineering</strong>
-  </a>
-</p>
-
----
-
-## Current direction
-
-I am building around the idea that AI agents become useful when they can safely interact with real systems.
-
-That means:
-
-* APIs instead of screenshots;
-* workflows instead of one-off prompts;
-* typed SDKs instead of fragile scripts;
-* repeatable development processes instead of chaotic agent sessions;
-* automation that can be inspected, tested, and improved.
-
- 
+<!-- STATS:START -->
+<sub>349 stars and 85 forks across 28 original repositories. Cards and numbers refresh daily.</sub>
+<!-- STATS:END -->

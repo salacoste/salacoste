@@ -1,0 +1,4 @@
+assets/*.svg linguist-generated
+assets/cards/*.svg linguist-generated
+data/github.json linguist-generated
+scripts/fonts/** binary

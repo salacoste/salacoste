@@ -1,0 +1,52 @@
+{
+  "user": "salacoste",
+  "hero": {
+    "headline": "AI agents, wired into real systems.",
+    "subline": "I build the harness in between: MCP servers, agent workflows and typed SDKs.",
+    "clients_caption": "AI clients",
+    "clients": ["Claude Code", "Cursor", "Codex", "Antigravity"],
+    "systems_caption": "Real systems",
+    "systems": [
+      { "label": "n8n", "wire": "orange" },
+      { "label": "Ozon Seller API", "wire": "blue" },
+      { "label": "Wildberries API", "wire": "magenta" },
+      { "label": "OpenAPI services", "wire": "green" },
+      { "label": "CRMs and databases", "wire": "teal" }
+    ],
+    "sleeve": ["MCP", "workflows", "SDKs"],
+    "routes": [[0, 0], [1, 3], [2, 1], [3, 2], [0, 4]]
+  },
+  "featured": [
+    {
+      "repo": "mcp-n8n-workflow-builder",
+      "wire": "orange",
+      "blurb": "Build, run and monitor n8n workflows from Claude or Cursor through MCP."
+    },
+    {
+      "repo": "antigravity-bmad-config",
+      "wire": "graphite",
+      "blurb": "BMad Method agents as slash commands, from PRD and architecture to QA gate."
+    },
+    {
+      "repo": "ozon-daytona-seller-api",
+      "wire": "blue",
+      "language": "TypeScript",
+      "blurb": "Typed TypeScript SDK for the Ozon Seller API: 278 methods in 33 groups."
+    },
+    {
+      "repo": "daytona-wildberries-typescript-sdk",
+      "wire": "magenta",
+      "blurb": "Type-safe TypeScript client for the Wildberries marketplace API."
+    },
+    {
+      "repo": "openapi-mcp-swagger",
+      "wire": "green",
+      "blurb": "Turns any Swagger or OpenAPI spec into a searchable MCP server."
+    },
+    {
+      "repo": "oh-my-bmad",
+      "wire": "graphite",
+      "blurb": "Self-hosted platform that drives Claude Code from Telegram and the console."
+    }
+  ]
+}
