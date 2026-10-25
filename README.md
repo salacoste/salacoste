@@ -7,9 +7,9 @@
 <img alt="Selected work" src="./assets/section-work.svg" width="100%">
 
 <p>
-<a href="https://github.com/salacoste/mcp-n8n-workflow-builder"><img alt="mcp-n8n-workflow-builder: Build, run and monitor n8n workflows from Claude or Cursor through MCP. 235 stars." src="./assets/cards/mcp-n8n-workflow-builder.svg" width="49%"></a> <a href="https://github.com/salacoste/antigravity-bmad-config"><img alt="antigravity-bmad-config: BMad Method agents as slash commands, from PRD and architecture to QA gate. 66 stars." src="./assets/cards/antigravity-bmad-config.svg" width="49%"></a>
+<a href="https://github.com/salacoste/mcp-n8n-workflow-builder"><img alt="mcp-n8n-workflow-builder: Build, run and monitor n8n workflows from Claude or Cursor through MCP. 236 stars." src="./assets/cards/mcp-n8n-workflow-builder.svg" width="49%"></a> <a href="https://github.com/salacoste/antigravity-bmad-config"><img alt="antigravity-bmad-config: BMad Method agents as slash commands, from PRD and architecture to QA gate. 66 stars." src="./assets/cards/antigravity-bmad-config.svg" width="49%"></a>
 <a href="https://github.com/salacoste/ozon-daytona-seller-api"><img alt="ozon-daytona-seller-api: Typed TypeScript SDK for the Ozon Seller API: 278 methods in 33 groups. 15 stars." src="./assets/cards/ozon-daytona-seller-api.svg" width="49%"></a> <a href="https://github.com/salacoste/daytona-wildberries-typescript-sdk"><img alt="daytona-wildberries-typescript-sdk: Type-safe TypeScript client for the Wildberries marketplace API. 7 stars." src="./assets/cards/daytona-wildberries-typescript-sdk.svg" width="49%"></a>
 <a href="https://github.com/salacoste/openapi-mcp-swagger"><img alt="openapi-mcp-swagger: Turns any Swagger or OpenAPI spec into a searchable MCP server. 18 stars." src="./assets/cards/openapi-mcp-swagger.svg" width="49%"></a> <a href="https://github.com/salacoste/oh-my-bmad"><img alt="oh-my-bmad: Self-hosted platform that drives Claude Code from Telegram and the console. 2 stars." src="./assets/cards/oh-my-bmad.svg" width="49%"></a>
 </p>
 
-<img alt="349 stars and 85 forks across 29 original repositories, 45 followers. Refreshed daily." src="./assets/status.svg" width="100%">
+<img alt="350 stars and 85 forks across 29 original repositories, 45 followers. Refreshed daily." src="./assets/status.svg" width="100%">
