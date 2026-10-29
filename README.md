@@ -12,4 +12,4 @@
 <a href="https://github.com/salacoste/openapi-mcp-swagger"><img alt="openapi-mcp-swagger: Turns any Swagger or OpenAPI spec into a searchable MCP server. 18 stars." src="./assets/cards/openapi-mcp-swagger.svg" width="49%"></a> <a href="https://github.com/salacoste/oh-my-bmad"><img alt="oh-my-bmad: Self-hosted platform that drives Claude Code from Telegram and the console. 2 stars." src="./assets/cards/oh-my-bmad.svg" width="49%"></a>
 </p>
 
-<img alt="350 stars and 86 forks across 29 original repositories, 46 followers. Refreshed daily." src="./assets/status.svg" width="100%">
+<img alt="350 stars and 86 forks across 30 original repositories, 46 followers. Refreshed daily." src="./assets/status.svg" width="100%">
