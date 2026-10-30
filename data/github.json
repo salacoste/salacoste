@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-10-29T10:55:17Z",
+  "fetched_at": "2026-10-30T10:53:23Z",
   "user": {
-    "followers": 46,
-    "public_repos": 140
+    "followers": 45,
+    "public_repos": 141
   },
   "totals": {
     "stars": 350,
@@ -13,7 +13,7 @@
     "antigravity-bmad-config": {
       "stars": 66,
       "forks": 19,
-      "language": "Python"
+      "language": "HTML"
     },
     "daytona-wildberries-typescript-sdk": {
       "stars": 7,
