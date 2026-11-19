@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T13:06:17Z",
+  "fetched_at": "2026-11-19T13:14:36Z",
   "user": {
     "followers": 48,
     "public_repos": 143
@@ -11,7 +11,7 @@
   },
   "repos": {
     "antigravity-bmad-config": {
-      "stars": 66,
+      "stars": 65,
       "forks": 19,
       "language": "HTML"
     },
@@ -36,7 +36,7 @@
       "language": "Python"
     },
     "ozon-daytona-seller-api": {
-      "stars": 15,
+      "stars": 16,
       "forks": 6,
       "language": "HTML"
     }
