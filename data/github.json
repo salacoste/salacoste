@@ -1,17 +1,17 @@
 {
-  "fetched_at": "2026-11-24T14:54:23Z",
+  "fetched_at": "2026-11-25T14:26:54Z",
   "user": {
     "followers": 47,
     "public_repos": 143
   },
   "totals": {
-    "stars": 355,
-    "forks": 86,
+    "stars": 354,
+    "forks": 87,
     "originals": 30
   },
   "repos": {
     "antigravity-bmad-config": {
-      "stars": 65,
+      "stars": 64,
       "forks": 19,
       "language": "HTML"
     },
@@ -22,7 +22,7 @@
     },
     "mcp-n8n-workflow-builder": {
       "stars": 241,
-      "forks": 56,
+      "forks": 57,
       "language": "JavaScript"
     },
     "oh-my-bmad": {
